@@ -1,0 +1,57 @@
+item.GalaxyIngot.name=Galaxy Ingot
+tile.GalaxyOre.name=Galaxy Ore
+item.MixedIngot.name=Mixed Ingot
+tile.MixedOre.name=Mixed Powder
+
+item.BrokenChip.name=Broken Chip
+item.ArmorFragment.name=Armor Fragment
+item.BlueFragment.name=Blue Fragment
+item.BlueClothingFragment.name=Blue Clothing Fragment
+item.RedClothingFragment.name=Red Clothing Fragment
+item.BrokenProcessor.name=Broken Processor
+item.SwordFragment.name=Sword Fragment
+
+item.AllXP.name=All XP
+item.CombatXP.name=Combat XP
+item.Capsula1.name=Capsula 1
+item.Capsula2.name=Capsula 2
+item.Capsula3.name=Capsula 3
+item.Capsula4.name=Capsula 4
+item.GrandBottle.name=Grand Bottle
+item.ColossalXP.name=Colossal XP
+item.YellowRock.name=Yellow Rock
+
+item.CrystalChest.name=Crystal Chestplate
+item.CrystalLegs.name=Crystal Leggings
+item.CrystalHelm.name=Crystal Helmet
+item.CrystalBoots.name=Crystal Boots
+
+item.BlazeChest.name=Blaze Chestplate
+item.BlazeLegs.name=Blaze Leggings
+item.BlazeBoots.name=Blaze Boots
+
+item.GalaxySword.name=Galaxy Sword
+item.WhissSword.name=Whiss Sword
+item.EarthShard.name=Earth Shard
+item.EmeraldBlade.name=Emerald Blade
+
+item.SteelAxe.name=Steel Axe
+item.RaiderAxe.name=Raider Axe
+item.JungleAxe.name=Jungle Axe
+item.SteelPickaxe.name=Steel Pickaxe
+item.ZombiePickaxe.name=Zombie Pickaxe
+
+item.ProtectorChest.name=Protector Chestplate
+item.ProtectorLegs.name=Protector Leggings
+item.ProtectorHelm.name=Protector Helmet
+item.ProtectorBoots.name=Protector Boots
+
+item.MagmaChest.name=Magma Chestplate
+item.MagmaLegs.name=Magma Leggings
+item.MagmaHelm.name=Magma Helmet
+item.MagmaBoots.name=Magma Boots
+
+item.DragonslayerChest.name=Dragonslayer Chestplate
+item.DragonslayerLegs.name=Dragonslayer Leggings
+item.DragonslayerHelm.name=Dragonslayer Helmet
+item.DragonslayerBoots.name=Dragonslayer Boots

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="DragonBlockC-v1.4.70-deobf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../GalaxyCore/libs/DragonBlockC-v1.4.70-deobf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../GalaxyCore/libs/JBRA-Client-v1.6.43-deobf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../GalaxyCore/libs/JRMCore-v1.3.30-deobf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../GalaxyCore/libs/OptiFine_1.7.10_D1-deobf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../GalaxyCore/libs/JBRA-Client-v1.6.43-deobf_source.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../GalaxyCore/libs/DragonBlockC-v1.4.70-deobf_source.jar!/DragonBlockC-v1.4.70-deobf_source_from_cfr" />
+      <root url="jar://$PROJECT_DIR$/../GalaxyCore/libs/JRMCore-v1.3.30-deobf_source.jar!/JRMCore-v1.3.30-deobf_source_from_cfr" />
+    </SOURCES>
+  </library>
+</component>

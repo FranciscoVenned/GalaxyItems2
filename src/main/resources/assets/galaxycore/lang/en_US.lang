@@ -1,0 +1,211 @@
+item.PicoloChest.name=Picolo Chestplate
+item.PicoloLegs.name=Picolo Leggings
+item.PicoloHelm.name=Picolo Helmet
+item.PicoloBoots.name=Picolo Boots
+
+item.zenoSamaBoots.name=ZenoSama Botas
+item.zenoSamaLegs.name=ZenoSama Pantalones
+item.zenoSamaChest.name=ZenoSama Pechera
+
+item.trunksCLegs.name=TrunksC Pantalones
+item.trunksCChest.name=TrunkC Pechera
+item.trunksCBoots.name=TrunkC Boots
+
+item.trunksBLegs.name=TrunksB Pantalones
+item.trunksBChest.name=TrunksB Pechera
+item.trunksBBoots.name=TrunksB Botas
+
+item.trunksALegs.name=TrunksA Pantalones
+item.trunksAChest.name=TrunksA Pechera
+item.trunksABoots.name=TrunksA Botas
+
+item.shallotLegs.name=Shallot Pantalones
+item.shallotChest.name=Shallot Pechera
+item.shallotBoots.name=Shallot Botas
+
+item.gogetaLegs.name=Gogeta Pantalones
+item.gogetaChest.name=Gogeta Pechera
+item.gogetaBoots.name=Gogeta Botas
+
+item.fuLegs.name=Fu Pantalones
+item.fuChest.name=Fu Pechera
+item.fuBoots.name=Fu Botas
+
+item.shakujoObito.name=Shakujo Obito
+item.shakujoObitoMadara.name=Shakujo Obito Madara
+item.scytheHidani.name=Scythe Hidani
+item.sageInsectSoup.name=Sage Insect Soup
+item.pizza.name=Pizza
+
+item.daishinkanLegs.name=Daishinkan Pantalones
+item.daishinkanChest.name=Daishinkan Pechera
+item.daishinkanBoots.name=Daishinkan Botas
+
+item.chiraiLegs.name=Chirai Pantalones
+item.chiraiChest.name=Chirai Pechera
+item.chiraiBoots.name=Chirai Botas
+
+item.champaLegs.name=Champa Pantalones
+item.champaChest.name=Champa Pechera
+item.champaBoots.name=Champa Botas
+
+item.babyvegetaLegs.name=BabyVegeta Pantalones
+item.babyvegetaChest.name=BabyVegeta Pechera
+item.babyvegetaBoots.name=BabyVegeta Botas
+
+item.arakChest.name=Arak Pechera
+item.arakBoots.name=Arak Botas
+item.arakLegs.name=Arak Pantalones
+
+item.woodKatana.name=Wood Katana
+
+item.kambaLegs.name=Kamba Pantalones
+item.kambaChest.name=Kamba Pechera
+item.kambaBoots.name=Kamba Botas
+
+item.yardratBoots.name=Yardrat Botas
+item.yardratLegs.name=Yardrat Pantalones
+item.yardratChest.name=Yardrat Pechera
+
+item.calabazaHelm.name=Casco de Calabaza
+item.calabazaLegs.name=Pantalon de Calabaza
+item.calabazaBoots.name=Botas de Calabaza
+item.calabazaChest.name=Peto de Calabaza
+
+item.skeletonHelm.name=Casco de Esqueleto
+item.skeletonChest.name=Peto de Esqueleto
+item.skeletonBoots.name=Botas de Esqueleto
+item.skeletonLegs.name=Pantalon de Esqueleto
+
+item.GalaxyIngot.name=Galaxy Ingot
+tile.GalaxyOre.name=Galaxy Ore
+item.MixedIngot.name=Mixed Ingot
+tile.MixedOre.name=Mixed Powder
+
+item.AllXP.name=All XP
+item.CombatXP.name=Combat XP
+item.Capsula1.name=Capsula 1
+item.Capsula2.name=Capsula 2
+item.Capsula3.name=Capsula 3
+item.Capsula4.name=Capsula 4
+item.GrandBottle.name=Grand Bottle
+item.ColossalXP.name=Colossal XP
+item.YellowRock.name=Yellow Rock
+
+item.CrystalChest.name=Crystal Chestplate
+item.CrystalLegs.name=Crystal Leggings
+item.CrystalHelm.name=Crystal Helmet
+item.CrystalBoots.name=Crystal Boots
+
+item.BlazeChest.name=Blaze Chestplate
+item.BlazeLegs.name=Blaze Leggings
+item.BlazeBoots.name=Blaze Boots
+
+item.SlayerChest.name=Slayer Chestplate
+item.SlayerLegs.name=Slayer Leggings
+item.SlayerBoots.name=Slayer Boots
+
+item.GalaxySword.name=Galaxy Sword
+item.WhissSword.name=Whiss Sword
+item.EarthShard.name=Earth Shard
+item.EmeraldBlade.name=Emerald Blade
+
+item.SteelAxe.name=Steel Axe
+item.RaiderAxe.name=Raider Axe
+item.JungleAxe.name=Jungle Axe
+item.SteelPickaxe.name=Steel Pickaxe
+item.ZombiePickaxe.name=Zombie Pickaxe
+
+item.ProtectorChest.name=Protector Chestplate
+item.ProtectorLegs.name=Protector Leggings
+item.ProtectorHelm.name=Protector Helmet
+item.ProtectorBoots.name=Protector Boots
+
+item.MagmaChest.name=Magma Chestplate
+item.MagmaLegs.name=Magma Leggings
+item.MagmaHelm.name=Magma Helmet
+item.MagmaBoots.name=Magma Boots
+
+item.espadaacero.name=Sword Acero
+item.espadalapizlazuli.name=Sword LapizLazuli
+item.cuchillaacero.name=Cuchilla Acero
+
+item.tropaBoots.name=Boots Tropas
+item.tropaChest.name=Chestplate Tropas
+item.tropaLegs.name=Leggins Tropas
+item.tropaHelm.name=Helmet Tropa
+
+item.trunksLegs.name=Trunks Leggins
+item.trunksChest.name=Trunks Chesplate
+item.trunksBoots.name=Trunks Boots
+
+item.scaryLegs.name=Scarry Leggins
+item.scaryChest.name=Scarry Chestplate
+item.scaryBoots.name=Scarry Boots
+item.scaryHelm.name=Scarry Helmet
+
+item.itChest.name=It ChestPlate
+item.itBoots.name=It Boots
+item.itLegs.name=It Leggins
+item.itHelm.name=It Helmet
+
+item.Esfera.name=Esfera Morada
+item.SkeletonIngot.name=Skeleton Ingot
+item.lanza.name=Lanza
+item.espadagalaxy2.name=Espada Galaxy 2
+item.picomodel.name=Pico Halloween
+item.espadasparrow.name=Espada Sparrow
+item.stormbreaker.name=Storm Breaker
+item.Hacha Model.name=Hacha Wood
+item.Colmillo Dragon.name=Colmillo Dragon
+item.Mandoble.name=Mandoble
+item.mjolnir.name=Mjolnir
+
+item.DragonslayerChest.name=Dragonslayer Chestplate
+item.DragonslayerLegs.name=Dragonslayer Leggings
+item.DragonslayerHelm.name=Dragonslayer Helmet
+item.DragonslayerBoots.name=Dragonslayer Boots
+
+galaxymenu.resume=Resume
+galaxymenu.options=Options
+galaxymenu.leave=Quit
+galaxymenu.character=Character
+galaxymenu.joinsv=Join to Server
+galaxymenu.desarrollador= Join mode Developer Server
+
+tile.BrujaOre.name=Ore Bruja
+tile.CerdoOre.name=Ore Cerdo
+tile.SkeletonOre.name=Skeleton Ore
+tile.MurcielagoOre.name=Muercielago Ore
+tile.PigmanOre.name=Pigman Ore
+tile.FantasmaOre.name=Fantasma Ore
+tile.GhastOre.name=Ghast Ore
+tile.AranaOre.name=Arana Ore
+tile.SlimeOre.name=Slime Ore
+tile.OvejaOre.name=Oveja Ore
+tile.WhiterOre.name=Whiter Ore
+tile.BlazeOre.name=Blaze Ore
+tile.EndermanOre.name=Enderman Ore
+
+item.swordFragment.name=Sword Fragment
+item.OvejaIngot.name=Oveja Ingot
+item.CreeperIngot.name=Creeper Ingot
+item.MagmaIngot.name=Magma Ingot
+item.CerdoIngot.name=Cerdo Ingot
+item.PigmanIngot.name=Pigman Ingot
+item.WhiterIngot.name=Wither Ingot
+item.BlazeIngot.name=Blaze Ingot
+item.FantasmaIngot.name=Fantasma Ingot
+item.EndermanIngot.name=Enderman Ingot
+item.SlimeIngot.name=Slime Ingot
+item.MurcielagoIngot.name=Murcielago Ingot
+item.BrujaIngot.name=Bruja Ingot
+item.GhastIngot.name=Ghast Ingot
+item.brokenChip.name=Chip Broken
+item.blueClothingFragment.name=Blue Fragment
+item.brokenProccessor.name=Broken Proccessor
+tile.block.name=Barril Madera
+tile.pilarabajo.name=Pilar Abajo
+tile.pilararriba.name=Pilar Arriba
+item.redClotingFragment.name=Red Clothing Fragment
+item.AranaIngot.name=Araña Ingot

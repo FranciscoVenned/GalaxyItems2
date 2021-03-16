@@ -1,0 +1,20 @@
+// 
+// Decompiled by Procyon v0.5.36
+// 
+
+package fr.vn.galaxycore.items;
+
+import net.minecraft.entity.Entity;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.ItemArmor;
+
+public class ItemSlayerBoots extends ItemArmor
+{
+    public ItemSlayerBoots(final ItemArmor.ArmorMaterial mat, final int render, final int type) {
+        super(mat, render, type);
+    }
+    
+    public String getArmorTexture(final ItemStack stack, final Entity entity, final int slot, final String type) {
+        return "galaxycore:textures/models/armor/slayer_layer_1.png";
+    }
+}

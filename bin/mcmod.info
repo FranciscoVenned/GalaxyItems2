@@ -1,0 +1,19 @@
+[
+{
+  "modid": "galaxy_core",
+  "name": "GalaxyCore",
+  "description": "Commissioned by PanchoCpYT",
+  "version": "1.1.2",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+	"115kino",
+	"Shnupbups"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "galaxycore",
+  "name": "GalaxyAddons",
+  "description": "An items mod.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Francisco Venned"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

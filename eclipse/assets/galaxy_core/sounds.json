@@ -1,0 +1,317 @@
+{
+	"charged": {
+		"category": "player",
+		"sounds": [
+			{"name": "galaxy_core:fx/charged","stream": false}
+		]
+	},
+	"defend": {
+		"category": "player",
+		"sounds": [
+			{"name": "galaxy_core:fx/defend0","stream": false},
+			{"name": "galaxy_core:fx/defend1","stream": false},
+			{"name": "galaxy_core:fx/defend2","stream": false},
+			{"name": "galaxy_core:fx/defend3","stream": false},
+			{"name": "galaxy_core:fx/defend4","stream": false},
+			{"name": "galaxy_core:fx/defend5","stream": false}
+		]
+	},
+	"out": {
+		"category": "player",
+		"sounds": [
+			{"name": "galaxy_core:fx/out","stream": false}
+		]
+	},
+  "jump": {
+    "category": "player",
+    "sounds": [
+      {"name": "galaxy_core:fx/wall_jump","stream": false}
+    ]
+  },
+  "music.game": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "minecraft:music/game/calm1",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/calm2",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/calm3",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/hal1",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/hal2",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/hal3",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/hal4",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/nuance1",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/nuance2",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/piano1",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/piano2",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/piano3",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/BardockFalls",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/BrolyChalad",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/BrolyRage",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/BuuTheme",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/JirenPower",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/JirenTheme",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/rage",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/RitualGod",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/SadChampa",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/TimeChamber",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/VegeLimits",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/Gustavo_Santaolalla",
+        "stream": true
+      }
+    ]
+  },
+  "music.game.creative": {
+    "category": "music",
+    "sounds": [
+      {
+        "type": "event",
+        "name": "music.game"
+      },
+      {
+        "name": "minecraft:music/game/creative/creative1",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/creative/creative2",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/creative/creative3",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/creative/creative4",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/creative/creative5",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/creative/creative6",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/BardockFalls",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/BrolyChalad",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/BrolyRage",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/BuuTheme",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/JirenPower",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/JirenTheme",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/rage",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/RitualGod",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/SadChampa",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/TimeChamber",
+        "stream": true
+      },
+      {
+        "name": "galaxy_core:music/VegeLimits",
+        "stream": true
+      }
+    ]
+  },
+  "music.bardockfalls": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "galaxy_core:music/BardockFalls",
+        "stream": true
+      }
+    ]
+  },
+  "music.brolychalad": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "galaxy_core:music/BrolyChalad",
+        "stream": true
+      }
+    ]
+  },
+  "music.brolyrage": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "galaxy_core:music/BrolyRage",
+        "stream": true
+      }
+    ]
+  },
+  "music.buutheme": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "galaxy_core:music/BuuTheme",
+        "stream": true
+      }
+    ]
+  },
+  "music.jirenpower": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "galaxy_core:music/JirenPower",
+        "stream": true
+      }
+    ]
+  },
+  "music.jirentheme": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "galaxy_core:music/JirenTheme",
+        "stream": true
+      }
+    ]
+  },
+  "music.rage": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "galaxy_core:music/rage",
+        "stream": true
+      }
+    ]
+  },
+  "music.ritualgod": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "galaxy_core:music/RitualGod",
+        "stream": true
+      }
+    ]
+  },
+  "music.sadchampa": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "galaxy_core:music/SadChampa",
+        "stream": true
+      }
+    ]
+  },
+  "music.timechamber": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "galaxy_core:music/TimeChamber",
+        "stream": true
+      }
+    ]
+  },
+  "music.gustavo_santaolalla": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "galaxy_core:music/Gustavo_Santaolalla",
+        "stream": true
+      }
+    ]
+  },
+  "music.vegelimits": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "galaxy_core:music/VegeLimits",
+        "stream": true
+      }
+    ]
+  }
+}
